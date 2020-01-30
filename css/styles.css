@@ -161,6 +161,12 @@
     padding: 10px;
     color: #fff;
   }
+
+  .myimage {
+    height: 10em;
+    border-radius: 25%;
+    border-color: azure;
+  }
   
   .img1 {
     margin-top: -25px;
